@@ -1,0 +1,1 @@
+curl -X POST "https://localhost:5001/Job/SaveNav" -H "Content-Type: application/json" -k -i -d "@.\.job\schemes.json"

@@ -1,0 +1,1 @@
+npx --yes serve . -p 5002 -c .\.serve\config
