@@ -1,6 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/master/mutual-funds/nav/:fund", "destination": "/mutual-funds/nav/:fund" },
-    { "source": "/master/mutual-funds/schemes", "destination": "/mutual-funds/schemes" }
-  ]
-}
